@@ -1,0 +1,7 @@
+*.exe
+*.jar
+*.class
+.DS_Store
+logs/
+dist/
+bin/
